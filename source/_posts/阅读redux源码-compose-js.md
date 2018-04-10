@@ -2,6 +2,7 @@
 title: 阅读redux源码--compose.js
 date: 2018-04-09 16:52:16
 tags: [js, redux, 源码]
+categories: 技术
 ---
 compose.js是redux里强大而又常被忽视的一个功能。
 <!-- more -->
